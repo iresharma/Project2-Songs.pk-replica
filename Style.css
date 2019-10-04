@@ -84,7 +84,7 @@ body {
 
 .sbtn {
     font-size: 20px;
-    width: 40%;
+    width: 30%;
     height: 38px;
     padding: 7px 12px 7px 45px;
     margin-left: 2px;
@@ -131,7 +131,6 @@ body {
 #theadl {
     background-color: #954293;
     text-transform: uppercase;
-    color: #FFFFFF;
 }
 
 .links {
@@ -214,5 +213,59 @@ body {
 #theadr {
     background-color: #484F5B;
     text-transform: uppercase;
+}
+
+#head-text {
     color: #FFFFFF;
+}
+
+.sfd-title {
+    background-color: #00C792;
+    margin-top: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    color: #FFFFFF;
+    padding: 5px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.sfd-main {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    margin: 0 0 0 0;
+    border: 1px solid grey;
+}
+
+.sfd-img {
+    transition: transform 1s, background-image 2s;
+    margin: 0 2px 0 0;
+    padding: 0 0 0 0;
+}
+
+.sfd-img:hover {
+    transform: scale(1.2);
+    background-image: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)) url("images/aloe-vera-bright-flora-1549201.jpg");
+}
+
+.sfd-item {
+    margin: 0;
+}
+
+#sfd-art {
+    width: 150px;
+    height: 128px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+big {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+small {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
 }

@@ -288,6 +288,11 @@ small {
     float: right;
 }
 
+.a-t:hover{
+    background-color: grey !important;
+    color: white !important;
+}
+
 #theadp {
     background-color: #04BAC9;
 }

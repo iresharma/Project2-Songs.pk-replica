@@ -305,3 +305,44 @@ small {
     background-color: black !important;
     color: #FFFFFF;
 }
+
+.nav-b-g {
+    font-size: 13px;
+    background-color: #E25D4C;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    margin: 0 3px 0 0;
+}
+
+.nav-b-g:hover {
+    background-color: #FFFFFF;
+    color: #E25D4C;
+}
+
+.nav-b-f {
+    font-size: 13px;
+    background-color: #557AC4;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    margin: 0 3px 0 0;
+}
+
+
+.nav-b-f:hover {
+    color: #557AC4;
+    background-color: #FFFFFF;
+}
+
+.nav-b-t {
+    font-size: 13px;
+    background-color: #3BBBEC;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    margin: 0 3px 0 0;
+}
+
+
+.nav-b-t:hover {
+    background-color: #FFFFFF;
+    color: #3BBBEC;
+}
